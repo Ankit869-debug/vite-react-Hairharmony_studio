@@ -54,7 +54,8 @@ export const initialContent = {
         name: "Kritika Khandelwal",
         role: "Lead Artist & Founder",
         bio: "With over 3 years of experience in the beauty industry  , I specialize in creating timeless, elegant looks that enhance natural beauty.",
-        image: "krithika.jpeg"
+        image: "images/krithika.jpg"
+
     },
     portfolio: [
         { id: 1, category: 'bridal', image: 'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?q=80&w=2071&auto=format&fit=crop', type: 'image' },
@@ -76,3 +77,4 @@ export const initialContent = {
         autoPlay: false
     }
 };
+
