@@ -14,7 +14,7 @@ const About = () => {
                         <div className="aspect-[3/4] rounded-t-[150px] overflow-hidden border-8 border-nude-50 shadow-2xl relative z-20">
                             <img
                                 {/* src={content.about.image} */}
-                                 src= public/images/krithika.jpg
+                                 src= {public/images/krithika.jpg}
 
                                 alt={content.about.name}
                                 className="w-full h-full object-cover"
@@ -61,5 +61,6 @@ const About = () => {
 };
 
 export default About;
+
 
 
